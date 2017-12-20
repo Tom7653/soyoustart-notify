@@ -1,7 +1,10 @@
-soyoustart-notify
+SoYouStart-Notify-Reborn
 =================
-
 Notify when a SoYouStart server is available
+
+## Why a fork?
+
+To work with the new site, I may add other things at some point.
 
 ## Building
 
